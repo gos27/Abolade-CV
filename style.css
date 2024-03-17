@@ -1,0 +1,256 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Josefin Sans", sans-serif;
+    line-height: 1.5;
+    font-family: "Barlow Semi Condensed", sans-serif;
+}
+
+h1{
+    font-weight: 800;
+    font-style: normal;
+}
+
+h2 {
+    color: lightblue;
+    font: bolder;
+    margin-top: 50px;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-style: normal;
+}
+
+p,
+
+p, a {
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-align: left;  
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-weight: 400;
+    color: gray;
+}
+
+li {
+    color: lightblue;
+    font-weight: 600px;
+    text-transform: uppercase;
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-weight: 400;
+}
+
+progress {
+    width: 300px;
+    height: 25px;
+    border: 2px solid white;
+}
+
+progress::-webkit-progress-bar {
+    background-color: white;
+}
+
+progress::-webkit-progress-value {
+    background-color: lightblue;
+}
+
+.container-top p {
+    color: black;
+}
+
+.container-top {
+    position: relative;
+    background-color: gray;
+    height: 1500px;
+    width: 420px;
+    bottom: 220px;
+    z-index: -4;
+}
+
+.container-1 {
+    position: absolute;
+    height: 300px;
+    width: 1400px;
+    left: 150px;
+    background-color: lightblue;
+    top: 60px;
+    border-right: 5px gray solid;
+    border-bottom: 5px gray solid;
+    border-radius: 15px;
+}
+
+.education > h2 {
+    margin-right: 70px;
+    border: 5px solid gray;
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-weight: 400;
+}
+
+.container-4 {
+    position: absolute;
+    padding: 15px;
+    height: 600px;
+    width: 500px;
+    left: 450px;
+    top: 350px;
+    font-size: 1.5rem;
+    font-weight: 500;
+    white-space: 10px;
+}
+
+.container-5 {
+    position: relative;
+    display: inline-block;
+    height: 600px;
+    left: 1000px;
+    bottom: 1585px;
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.container-6 {
+    position: absolute;
+    top: 1300px;
+    margin: 20px;
+    left: 500px;
+}
+
+.about  {
+    color: azure;
+    position: relative;
+    height: 450px;
+    left: 650px;
+    top: -1430px;
+    text-transform: uppercase;
+    text-align: left;
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-size: 1.2rem;
+    font-weight: 900;
+}
+.about h1 {
+    font-size: 50px;
+}
+
+.skill  {
+    text-transform: uppercase;
+    position: absolute;
+    top: 600px;
+    left: 50px;
+}
+
+.skill p  {
+    font-size: 25px;
+}
+
+.skill  #list {
+    font-size: 30px;
+}
+    
+.side {
+    border-radius: 40%;
+    position: absolute;
+    height: 150px;
+    left: 300px;
+    top: 130px;
+}
+
+.swap {
+    list-style: none;
+    color: white;
+    background-color: lightblue;
+    text-transform: uppercase;
+}
+
+.education {
+    right: 100px;
+    text-transform: uppercase;
+    color: white;
+    background-color: lightblue;
+    width: 400px;
+    margin-bottom: 50px;
+}
+
+.fiti {
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+
+.skill  >h2 {
+    position: absolute;
+    color: lightblue;
+    left: 450px;
+    top: 1200px;
+}
+
+.footer {
+    background: lightblue;
+    position: relative;
+    color: black;
+    margin: 20px;
+    padding: 5px 10px;
+    display: inline-block;
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-size: 400;
+    font-weight: normal;
+    font-style: normal;
+    height: 40px;
+    bottom: -100px;
+}
+
+
+#list {
+   font-size: 22px;
+   color: #a11010;
+   
+}
+
+#hobbies {
+    position: relative;
+    top: -10px;
+    left: -2px;
+}
+
+#note {
+    position: absolute;
+    bottom: 150px;
+    left: 480px;
+    background-color: lightblue;
+    color: grays;
+    padding: 5px;
+}
+
+
+
+#contact {
+    font-size: 20px;
+    padding: 15px;
+    margin: 10px;
+   height: 200px;
+}
+
+.copy {
+    display: inline-block;
+    font-size: 500;
+    text-align: center;
+    width: 550px;
+}
+
+/* @media (max-width: 680px) {
+    .about {
+        font-size: .8rem;
+        margin-bottom: 10px;
+        width: 100%;
+        display: inline;   
+    }
+    .section {
+        width: 100%;
+        display: block;
+        margin: 20px;
+        text-align: justify;
+    }
+
+   
+} */

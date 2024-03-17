@@ -1,0 +1,43 @@
+<img class="side" src="./passport.png" alt="">
+
+
+            
+            <h1>Bolade A Alli</h1>
+            <h3>I'M a Web Developer</h3>
+            <p>boladealli27@gmail.com</p>
+            <p> 08072963710</p>
+            <p>No. 1 Aro's Compound Offa,Kwara State.</p>
+            <p>October 27th 198*</p>
+            <p>Male</p>
+            <p>Nigeria</p>
+        
+    Primary Education</h3>
+              <p>The Moradeyo Dolapo School     1992-1997</p>
+              <p>Alade Nur/Pri Offa Kwara State 1997-1998</p>
+
+              Secondary Education</h3>
+              <p>Alade College Ajase-Ipo 1998-2000</p>
+              <p>FEDPOFFA Staff School 2000-2004</p>
+
+              Tertiary Education</h3>
+              <p>Federal Poly Offa Math & Stats (OND) 2000-2006</p>
+              <P>Federal Poly Offa Math & Stats (HND) 2009-20011</P>
+
+              Web Development</h3>
+              <p>Femtech IT, Offa</p>
+              <P><span><b>HTML</b></span></P>
+              <P><span><b>CSS</b></span></P>
+              <P><span><b>BOOTSTRAP</b></span></P>
+              <P><span><b>JAVASCRIPT</b></span></P>
+              <P><span><b>PHP & MYSQL</b></span></P>
+
+              Hobbies</h3>
+              <p>Swimming</p> 
+              <p>Camping</p>
+              <p>Watching Soccer</p>
+              <p>Cooking</p>
+              <p>Movies & Music</p>
+
+              Employment</h3>
+              <p>Aro Brother's Petroleum Nig LTD 2003-2009</p>
+              <P>Federal Poly Offa Math & Stats (HND) 2009-Present</P>
